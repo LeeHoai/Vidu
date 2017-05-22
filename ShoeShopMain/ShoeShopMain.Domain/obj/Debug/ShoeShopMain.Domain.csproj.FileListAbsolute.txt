@@ -1,0 +1,28 @@
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\ShoeShopMain.Domain.dll.config
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\ShoeShopMain.Domain.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\ShoeShopMain.Domain.pdb
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\EntityFramework.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\EntityFramework.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\obj\Debug\ShoeShopMain.Domain.csprojResolveAssemblyReference.cache
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\obj\Debug\ShoeShopMain.Domain.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\obj\Debug\ShoeShopMain.Domain.pdb
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\PagedList.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\PagedList.Mvc.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\PagedList.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\PagedList.Mvc.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\ShoeShopMain.Domain.dll.config
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\ShoeShopMain.Domain.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\ShoeShopMain.Domain.pdb
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\EntityFramework.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\PagedList.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\PagedList.Mvc.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\EntityFramework.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\PagedList.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\bin\Debug\PagedList.Mvc.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\obj\Debug\ShoeShopMain.Domain.csprojResolveAssemblyReference.cache
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\obj\Debug\ShoeShopMain.Domain.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain.Domain\obj\Debug\ShoeShopMain.Domain.pdb

@@ -1,0 +1,122 @@
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\ShoeShopMain.dll.config
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\ShoeShopMain.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\ShoeShopMain.pdb
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Antlr3.Runtime.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\EntityFramework.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\EntityFramework.SqlServer.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.AspNet.Identity.Core.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Cookies.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Facebook.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Google.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.OAuth.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Twitter.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Web.Infrastructure.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Newtonsoft.Json.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Owin.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\ShoeShopMain.Domain.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.Helpers.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.Mvc.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.Optimization.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.Razor.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.WebPages.Deployment.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.WebPages.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.WebPages.Razor.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\WebGrease.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\ShoeShopMain.Domain.pdb
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.Helpers.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.Mvc.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.Optimization.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.Razor.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.WebPages.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.WebPages.Deployment.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\System.Web.WebPages.Razor.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Antlr3.Runtime.pdb
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Newtonsoft.Json.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\EntityFramework.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\EntityFramework.SqlServer.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.AspNet.Identity.Core.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Facebook.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Cookies.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.OAuth.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Google.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Twitter.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\obj\Debug\ShoeShopMain.csprojResolveAssemblyReference.cache
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\obj\Debug\ShoeShopMain.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\obj\Debug\ShoeShopMain.pdb
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\PagedList.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\PagedList.Mvc.dll
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\PagedList.xml
+F:\HOC TAP\Support Kun\project\ShoeShopMain\ShoeShopMain\bin\PagedList.Mvc.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\ShoeShopMain.dll.config
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\ShoeShopMain.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\ShoeShopMain.pdb
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Antlr3.Runtime.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\EntityFramework.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\EntityFramework.SqlServer.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Google.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Web.Infrastructure.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Newtonsoft.Json.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Owin.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\PagedList.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\PagedList.Mvc.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\ShoeShopMain.Domain.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.Helpers.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.Mvc.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.Optimization.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.Razor.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.WebPages.Deployment.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.WebPages.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.WebPages.Razor.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\WebGrease.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\ShoeShopMain.Domain.pdb
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\PagedList.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\PagedList.Mvc.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.Helpers.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.Mvc.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.Optimization.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.Razor.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.WebPages.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.WebPages.Deployment.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\System.Web.WebPages.Razor.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Antlr3.Runtime.pdb
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Newtonsoft.Json.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\EntityFramework.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\EntityFramework.SqlServer.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Google.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\obj\Debug\ShoeShopMain.csprojResolveAssemblyReference.cache
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\obj\Debug\ShoeShopMain.dll
+D:\Ki2-nam4\DOAN\baocao\ShoeShopMain\ShoeShopMain\obj\Debug\ShoeShopMain.pdb

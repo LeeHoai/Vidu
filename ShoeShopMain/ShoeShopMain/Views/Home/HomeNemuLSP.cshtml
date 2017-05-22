@@ -1,0 +1,13 @@
+﻿@model List<ShoeShopMain.Domain.EF.LOAISANPHAM>
+<h2>Loại giày</h2>
+<div class="panel-group category-products" id="accordian">
+    <!--category-productsr-->
+    @foreach (var item in Model)
+    {
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title"><a href="loai_sp/@item.MaLoaiSP">@item.TenLoaiSP</a></h4>
+            </div>
+        </div>
+    }
+</div><!--/category-products-->

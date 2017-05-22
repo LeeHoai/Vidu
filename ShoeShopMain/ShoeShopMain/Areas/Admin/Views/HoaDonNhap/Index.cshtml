@@ -1,0 +1,61 @@
+﻿@model PagedList.IPagedList<ShoeShopMain.Domain.EF.HOADONNHAP>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Quản lý hóa đơn nhập";
+    Layout = "~/Areas/Admin/Views/Shared/_Layouts.cshtml";
+}
+@section header{
+    Trang hóa đơn nhập
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <!-- Advanced Tables -->
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <a href="/Admin/HoaDonNhap/Create" class="btn btn-primary">Thêm mới hóa đơn nhập</a>
+            </div>
+            <div class="panel-heading">
+                Thông tin hóa đơn nhập
+            </div>
+            <div class="panel-body">
+                <div class="table-responsive">
+                    <table class="table table-striped table-bordered table-hover" id="dataTables-example">
+                        <thead>
+                            <tr>
+                                <th>Mã hóa đơn</th>
+                                <th>Mã nhà cung cấp</th>
+                                <th>Ngày nhập</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr class="odd gradeX" id="row_@item.MaHDN">
+                                    <td>@item.MaHDN</td>
+                                    <td>@item.MaNCC</td>
+                                    <td>@item.NgayNhap</td>
+                                    <td>
+                                        <a href="/Admin/HoaDonNhap/Edit/@item.MaHDN">Xem chi tiết</a>
+                                        |
+                                        @Ajax.ActionLink("Xóa", "Delete", new { @id = item.MaHDN }, new AjaxOptions
+                                   {
+                                       Confirm = "Bạn có muốn xóa sản phẩm này",
+                                       OnComplete = "$('#row_" + @item.MaHDN + "').remove()",
+                                       HttpMethod = "Delete"
+                                   })
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+                </div>
+
+            </div>
+        </div>
+        <!--End Advanced Tables -->
+    </div>
+</div>
+

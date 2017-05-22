@@ -1,0 +1,74 @@
+﻿@model PagedList.IPagedList<ShoeShopMain.Domain.EF.HOADONBAN>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Quản lý hóa đơn bán";
+    Layout = "~/Areas/Admin/Views/Shared/_Layouts.cshtml";
+}
+@section header{
+    Trang hóa đơn bán
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <!-- Advanced Tables -->
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <a href="/Admin/HoaDonBan/Create" class="btn btn-primary">Thêm mới hóa đơn bán</a>
+            </div>
+            <div class="panel-heading">
+                Thông tin hóa đơn bán
+            </div>
+            @using (Html.BeginForm("Index", "HoaDonBan", FormMethod.Get))
+            {
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="col-md-4">
+                            <input type="text" name="searchString" />
+                        </div>
+                        <div class="col-md-4">
+                            <button type="submit">Tìm kiếm</button>
+                        </div>
+                    </div>
+                </div>
+            }
+            <div class="panel-body">
+                <div class="table-responsive">
+                    <table class="table table-striped table-bordered table-hover" id="dataTables-example">
+                        <thead>
+                            <tr>
+                                <th>Mã hóa đơn</th>
+                                <th>Mã tài khoản</th>
+                                <th>Ngày bán</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr class="odd gradeX" id="row_@item.MaHDB">
+                                    <td>@item.MaHDB</td>
+                                    <td>@item.MaTaiKhoan</td>
+                                    <td>@item.NgayBan</td>
+                                    <td>
+                                        <a href="/Admin/HoaDonBan/Edit/@item.MaHDB">Xem chi tiết</a>
+                                        |
+                                        @Ajax.ActionLink("Xóa", "Delete", new { @id = item.MaHDB }, new AjaxOptions
+                                   {
+                                       Confirm = "Bạn có muốn xóa sản phẩm này",
+                                       OnComplete = "$('#row_" + @item.MaHDB + "').remove()",
+                                       HttpMethod = "Delete"
+                                   })
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+                </div>
+
+            </div>
+        </div>
+        <!--End Advanced Tables -->
+    </div>
+</div>
+

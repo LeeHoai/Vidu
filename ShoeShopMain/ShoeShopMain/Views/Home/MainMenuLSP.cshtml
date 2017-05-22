@@ -1,0 +1,14 @@
+﻿@model List<ShoeShopMain.Domain.EF.LOAISANPHAM>
+
+<li class="dropdown">
+    <a href="#">Loại sản phẩm<i class="fa fa-angle-down"></i></a>
+    <ul role="menu" class="sub-menu">
+        @foreach (var item in Model)
+        {
+            <li><a href="@item.MaLoaiSP">@item.TenLoaiSP</a></li>
+        }
+    </ul>
+</li>
+
+
+
